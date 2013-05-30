@@ -136,7 +136,7 @@ config =
     max_texture_size   = 4096;
 
     show_intro         = true;
-    show_menu          =  true; -- TODO MUSTFIX Known issue: false does not work quite properly yet
+    show_menu          =  false; -- TODO MUSTFIX Known issue: false does not work quite properly yet
     show_fm_logo       = false;
     use_postprocessing =  true;
 

@@ -1,0 +1,12 @@
+
+#!/bin/bash
+
+
+cd demos/mm07demo/mm07_v21
+
+
+./fm_oes2_mobile_player 
+
+cd -
+
+
