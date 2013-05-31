@@ -5,7 +5,7 @@
 		 <application name="MM07 demo Tai Ji girl">
 				<description>This OpenglES2 demo shows a 3D girl practicing Tai Ji. After the Tai Ji girl it shows a demo of a hoverjet 3D game. After that it will show a demonstration of ES2 shader capabilities, lightning and textures.</description>
 		                <command>./demos/mm07demo/command.exc &amp;</command>
-		                <route>/mm07</route>
+		                <route>mm07</route>
 				<image>taijigirl.jpg</image>
 		 </application>
 	</module>
